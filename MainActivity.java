@@ -1,4 +1,4 @@
-package com.example.labexercise2francisco;
+package com.example.labexercise2sujide;
 
 import android.view.View;
 import android.widget.EditText;
